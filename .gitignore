@@ -13,7 +13,6 @@ build
 
 .classpath
 
-.project
 /bin/
 /Libs/
 /.settings/
